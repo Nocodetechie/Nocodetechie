@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Langue](https://language-app-4hymmw.flutterflow.app)
 
-- 🌱 I’m currently learning **Flutterflow, UI/UX Design, and Technical writing**
+- 🌱 I’m currently learning **Flutterflow and UI/UX Design**
 
 - 📝 I regularly write articles on [dehrawrites.com](dehrawrites.com)
 
